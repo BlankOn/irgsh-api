@@ -1,0 +1,2 @@
+#!/home/dio/.nvm/v0.12.0/bin/node
+var job = require('./diff')();
